@@ -6,49 +6,18 @@ This page provides a list of hotkeys and layered keys to perform magnification, 
 
 The following hotkeys can be used to operate the Magnifier Commands.
 
-Command
-
-Hotkeys
-
-Magnifier Commands
-
-**Unassigned**
-
-Enhance Colors On/Off
-
-**CAPS LOCK+C**
-
-Enhance Cursor On/Off
-
-**CAPS LOCK+R**
-
-Enhance Focus On/Off
-
-**CAPS LOCK+F**
-
-Enhance Pointer On/Off
-
-**CAPS LOCK+P**
-
-Enhance Smart Invert On/Off
-
-**CAPS LOCK+I**
-
-Smoothing Mode
-
-**CAPS LOCK+X**
-
-Toggle Zoom and 1x
-
-**CAPS LOCK+ENTER**
-
-Zoom In
-
-**CAPS LOCK+UP**
-
-Zoom Out
-
-**CAPS LOCK+DOWN**
+| Command                     | Hotkeys         |
+|-----------------------------|-----------------|
+| Magnifier Commands          | Unassigned      |
+| Enhance Colors On/Off       | CAPS LOCK+C     |
+| Enhance Cursor On/Off       | CAPS LOCK+R     |
+| Enhance Focus On/Off        | CAPS LOCK+F     |
+| Enhance Pointer On/Off      | CAPS LOCK+P     |
+| Enhance Smart Invert On/Off | CAPS LOCK+I     |
+| Smoothing Mode              | CAPS LOCK+X     |
+| Toggle Zoom and 1x          | CAPS LOCK+ENTER |
+| Zoom In                     | CAPS LOCK+UP    |
+| Zoom Out                    | CAPS LOCK+DOWN  |
 
 ## Layered Magnification Commands
 
